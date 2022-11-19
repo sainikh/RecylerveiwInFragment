@@ -18,7 +18,7 @@ PLease go through this link for more info  :
 ## https://developer.android.com/guide/navigation/navigation-getting-started
 
 * First implemting the xml layout as shown in the code
-* [hj]: https://media.geeksforgeeks.org/wp-content/uploads/20210120205337/GFGback.png
+* ![image](https://user-images.githubusercontent.com/47454954/202839265-aa2b1999-0fb9-4e31-afcf-62cee5a67fa8.png)
 * Create a Navhost container 
 * We initlize the recycler view in the MainActivity 
 * create an Interface and some metodes of which ever name you like (I create Passer as interface in this project and a method in it)
