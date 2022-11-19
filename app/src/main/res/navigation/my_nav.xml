@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/firstFranment">
+
+    <fragment
+        android:id="@+id/firstFranment"
+        android:name="com.example.recylerveiwinfragment.FirstFranment"
+        android:label="fragment_first_franment"
+        tools:layout="@layout/fragment_first_franment" >
+        <action
+            android:id="@+id/action_firstFranment_to_secodFragment"
+            app:destination="@id/secodFragment" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/secodFragment"
+        android:name="com.example.recylerveiwinfragment.SecodFragment"
+        android:label="fragment_secod"
+        tools:layout="@layout/fragment_secod" >
+        <action
+            android:id="@+id/action_secodFragment_to_firstFranment"
+            app:destination="@id/firstFranment" />
+        <argument
+            android:name="FirsFragmentdata"
+            app:argType="string" />
+    </fragment>
+</navigation>

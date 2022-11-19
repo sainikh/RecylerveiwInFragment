@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recylerveiw in fragment</string>
+    <string name="hello_blank_fragment">This is a Fragment</string>
+</resources>
