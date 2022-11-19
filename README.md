@@ -30,7 +30,9 @@ PLease go through this link for more info  :
     id("androidx.navigation.safeargs")
 }`
 
-* Set view Binding = true her ![image](https://user-images.githubusercontent.com/47454954/202839265-aa2b1999-0fb9-4e31-afcf-62cee5a67fa8.png)
+* Set view Binding = true
+<br>
+![image](https://user-images.githubusercontent.com/47454954/202839265-aa2b1999-0fb9-4e31-afcf-62cee5a67fa8.png)
 *  First implemting the xml layout as shown in the code
 
 * Create a Navhost container 
