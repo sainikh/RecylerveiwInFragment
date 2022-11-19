@@ -17,8 +17,20 @@ this implentaion is mailnly based on the nav Componet in android
 PLease go through this link for more info  : 
 ## https://developer.android.com/guide/navigation/navigation-getting-started
 
-* First implemting the xml layout as shown in the code
-* ![image](https://user-images.githubusercontent.com/47454954/202839265-aa2b1999-0fb9-4e31-afcf-62cee5a67fa8.png)
+* First implement
+
+  `dependencies {
+        `def nav_version = "2.5.3"
+        `classpath "androidx.navigation:navigation-safe-args-gradle-plugin:$nav_version"
+    `}
+    
+  ###  As well as plugins
+    
+    plugins {
+    id("androidx.navigation.safeargs")
+}
+*  First implemting the xml layout as shown in the code
+* Set view Binding = true her ![image](https://user-images.githubusercontent.com/47454954/202839265-aa2b1999-0fb9-4e31-afcf-62cee5a67fa8.png)
 * Create a Navhost container 
 * We initlize the recycler view in the MainActivity 
 * create an Interface and some metodes of which ever name you like (I create Passer as interface in this project and a method in it)
