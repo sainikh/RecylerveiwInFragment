@@ -1,6 +1,9 @@
 # RecylerveiwInFragment
 This project mainly focused on implemeting Fragments in an activity and then a recycler view in that fragments and passing data from one fragment to another using View Binding
 
+### view Binding
+## https://www.youtube.com/watch?v=omml4lK_b-A
+
 ### navComponents
 Going form one fragment to another is done by using navComponents 
 
