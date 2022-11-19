@@ -8,13 +8,15 @@ This link below explains What is view binding and more info in it
 
 ### navComponents
 Going form one fragment to another is done by using navComponents 
+#### Safe Args
+we are using safe args to pass data from one fragment to another
 
 this implentaion is mailnly based on the nav Componet in android 
 PLease go through this link for more info  : 
 ## https://developer.android.com/guide/navigation/navigation-getting-started
 
-### safe args
-we are using safe args to pass data from one fragment to another
+### View Binding
+
  
 
 
