@@ -29,8 +29,10 @@ PLease go through this link for more info  :
     `plugins {
     id("androidx.navigation.safeargs")
 }`
-*  First implemting the xml layout as shown in the code
+
 * Set view Binding = true her ![image](https://user-images.githubusercontent.com/47454954/202839265-aa2b1999-0fb9-4e31-afcf-62cee5a67fa8.png)
+*  First implemting the xml layout as shown in the code
+
 * Create a Navhost container 
 * We initlize the recycler view in the MainActivity 
 * create an Interface and some metodes of which ever name you like (I create Passer as interface in this project and a method in it)
