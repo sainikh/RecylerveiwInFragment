@@ -22,13 +22,13 @@ PLease go through this link for more info  :
   `dependencies {
         def nav_version = "2.5.3"
         classpath "androidx.navigation:navigation-safe-args-gradle-plugin:$nav_version"
-    `}
+    }`
     
   ###  As well as plugins
     
-    plugins {
+    `plugins {
     id("androidx.navigation.safeargs")
-}
+}`
 *  First implemting the xml layout as shown in the code
 * Set view Binding = true her ![image](https://user-images.githubusercontent.com/47454954/202839265-aa2b1999-0fb9-4e31-afcf-62cee5a67fa8.png)
 * Create a Navhost container 
