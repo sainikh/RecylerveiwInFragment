@@ -20,8 +20,8 @@ PLease go through this link for more info  :
 * First implement
 
   `dependencies {
-        `def nav_version = "2.5.3"
-        `classpath "androidx.navigation:navigation-safe-args-gradle-plugin:$nav_version"
+        def nav_version = "2.5.3"
+        classpath "androidx.navigation:navigation-safe-args-gradle-plugin:$nav_version"
     `}
     
   ###  As well as plugins
