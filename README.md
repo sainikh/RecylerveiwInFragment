@@ -42,8 +42,5 @@ Geeks for Geeks also provides a breaf overview of how to implement this. its goo
 
 * Create a Navhost container 
 * We initlize the recycler view in the MainActivity 
-* create an Interface and some metodes of which ever name you like (I create Passer as interface in this project and a method in it)
-
-Creating a View Binding to access the 
-
-passing Data Through fragments using safeArgs, All with the help of view Binding in fragments.
+* create an Interface and some metodes of which ever name you like (I created Passer as interface in this project and a method in it)
+* remaning you can find it in the code
