@@ -17,7 +17,7 @@ this implentaion is mailnly based on the nav Componet in android
 PLease go through this link for more info  : 
 ## https://developer.android.com/guide/navigation/navigation-getting-started
 
-Geeks for Geeks also provides a breaf overview of how to implement this its good if can go through it 
+Geeks for Geeks also provides a breaf overview of how to implement this. its good if can go through it once.
 ## https://www.geeksforgeeks.org/view-binding-in-android-jetpack/
 * First implement
 
