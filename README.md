@@ -44,4 +44,4 @@ Geeks for Geeks also provides a breaf overview of how to implement this. its goo
 * We initlize the recycler view in the MainActivity 
 * create an Interface and some metodes of which ever name you like (I created Passer as interface in this project and a method in it)
 * ## Demo : https://drive.google.com/file/d/11rJkQffbn8SikFYy0_pE4aA4LyiaZQPw/view?usp=share_link
-* remaning you can find it in the code
+* remember you pass interface to your adapter to make call backfunction in Adapter
